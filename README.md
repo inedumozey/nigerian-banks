@@ -1,4 +1,5 @@
 ### AN UPDATED LIST OF NIGERIAN BANKS IN ALPHABETICAL ORDER
+#### 291 banks
 
 Need a list of nigerian banks in a Javascript array or JSON? Well worry no more, drmo got you.
 
